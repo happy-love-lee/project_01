@@ -1,4 +1,4 @@
 function getNum() {
-    console.log(66);
+    alert(66);
 }
 getNum()
