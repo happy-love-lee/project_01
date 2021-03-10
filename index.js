@@ -1,3 +1,3 @@
 (function () {
-     alert('How are you?')
+    alert('How are you?')
  })()
