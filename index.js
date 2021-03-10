@@ -1,4 +1,4 @@
 function getNum() {
-    alert(66);
+    alert('How are you?');
 }
 getNum()
